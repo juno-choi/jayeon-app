@@ -6,6 +6,8 @@
     "build": "vite build"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.5.0",
+    "@heroicons/vue": "^1.0.5",
     "vue": "^3.0.4",
     "vue-router": "^4.0.12"
   },
